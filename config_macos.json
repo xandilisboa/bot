@@ -1,0 +1,26 @@
+{
+  "retina_scale": 2,
+  "market_button_key": "p",
+  "coordinates": {
+    "next_page_button": {
+      "x": 804,
+      "y": 862
+    },
+    "prev_page_button": {
+      "x": 703,
+      "y": 861
+    },
+    "first_shop": {
+      "x": 759,
+      "y": 384
+    },
+    "first_item_slot": {
+      "x": 169,
+      "y": 481
+    },
+    "close_shop_button": {
+      "x": 497,
+      "y": 386
+    }
+  }
+}
