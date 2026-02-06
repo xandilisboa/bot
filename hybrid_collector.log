@@ -1,0 +1,496 @@
+2026-02-04 03:47:39,209 - INFO - ============================================================
+2026-02-04 03:47:39,209 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 03:47:39,209 - INFO - ============================================================
+2026-02-04 03:47:39,222 - ERROR - Database connection failed: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (61)
+2026-02-04 03:47:39,222 - ERROR - Failed to connect to database
+2026-02-04 03:50:29,744 - INFO - ============================================================
+2026-02-04 03:50:29,745 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 03:50:29,745 - INFO - ============================================================
+2026-02-04 03:50:29,756 - ERROR - Database connection failed: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (61)
+2026-02-04 03:50:29,756 - ERROR - Failed to connect to database
+2026-02-04 03:51:54,131 - INFO - ============================================================
+2026-02-04 03:51:54,132 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 03:51:54,132 - INFO - ============================================================
+2026-02-04 03:51:54,152 - ERROR - Database connection failed: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (61)
+2026-02-04 03:51:54,152 - ERROR - Failed to connect to database
+2026-02-04 03:53:12,131 - INFO - ============================================================
+2026-02-04 03:53:12,132 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 03:53:12,132 - INFO - ============================================================
+2026-02-04 03:53:12,156 - ERROR - Database connection failed: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (61)
+2026-02-04 03:53:12,157 - ERROR - Failed to connect to database
+2026-02-04 03:54:15,192 - INFO - ============================================================
+2026-02-04 03:54:15,192 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 03:54:15,193 - INFO - ============================================================
+2026-02-04 03:54:15,213 - ERROR - Database connection failed: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (61)
+2026-02-04 03:54:15,213 - ERROR - Failed to connect to database
+2026-02-04 03:56:37,841 - INFO - ============================================================
+2026-02-04 03:56:37,841 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 03:56:37,841 - INFO - ============================================================
+2026-02-04 03:56:41,415 - INFO - Database connection established
+2026-02-04 03:56:41,554 - ERROR - Collection failed: 1054 (42S22): Unknown column 'collection_type' in 'field list'
+2026-02-04 04:00:11,376 - INFO - ============================================================
+2026-02-04 04:00:11,377 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:00:11,377 - INFO - ============================================================
+2026-02-04 04:00:13,826 - INFO - Database connection established
+2026-02-04 04:00:14,112 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:00:14,245 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:00:14,246 - INFO - Opening market...
+2026-02-04 04:00:16,456 - INFO - Selective collection completed
+2026-02-04 04:00:16,731 - INFO - ✓ Collection complete: 0 items from 0 pages
+2026-02-04 04:00:28,820 - INFO - ============================================================
+2026-02-04 04:00:28,820 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:00:28,820 - INFO - ============================================================
+2026-02-04 04:00:31,365 - INFO - Database connection established
+2026-02-04 04:00:31,643 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:00:31,914 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:00:31,914 - INFO - Opening market...
+2026-02-04 04:00:34,606 - INFO - Selective collection completed
+2026-02-04 04:00:34,884 - INFO - ✓ Collection complete: 0 items from 0 pages
+2026-02-04 04:03:15,460 - INFO - ============================================================
+2026-02-04 04:03:15,461 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:03:15,461 - INFO - ============================================================
+2026-02-04 04:03:17,987 - INFO - Database connection established
+2026-02-04 04:03:18,388 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:03:18,519 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:03:18,520 - INFO - Opening market...
+2026-02-04 04:03:21,218 - INFO - Selective collection completed
+2026-02-04 04:03:21,489 - INFO - ✓ Collection complete: 0 items from 0 pages
+2026-02-04 04:03:37,755 - INFO - ============================================================
+2026-02-04 04:03:37,755 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:03:37,755 - INFO - ============================================================
+2026-02-04 04:03:40,016 - INFO - Database connection established
+2026-02-04 04:03:40,440 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:03:40,576 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:03:40,577 - INFO - Opening market...
+2026-02-04 04:03:43,326 - INFO - Selective collection completed
+2026-02-04 04:03:43,622 - INFO - ✓ Collection complete: 0 items from 0 pages
+2026-02-04 04:06:08,229 - INFO - ============================================================
+2026-02-04 04:06:08,230 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:06:08,230 - INFO - ============================================================
+2026-02-04 04:06:10,483 - INFO - Database connection established
+2026-02-04 04:06:10,898 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:06:11,170 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:06:11,170 - INFO - Opening market...
+2026-02-04 04:06:13,949 - INFO - Selective collection completed
+2026-02-04 04:06:14,241 - INFO - ✓ Collection complete: 0 items from 0 pages
+2026-02-04 04:10:04,427 - INFO - ============================================================
+2026-02-04 04:10:04,428 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:10:04,428 - INFO - ============================================================
+2026-02-04 04:10:07,015 - INFO - Database connection established
+2026-02-04 04:10:07,429 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:10:07,703 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:10:07,703 - INFO - Opening market...
+2026-02-04 04:10:10,428 - INFO - Selective collection completed
+2026-02-04 04:10:10,699 - INFO - ✓ Collection complete: 0 items from 0 pages
+2026-02-04 04:10:36,147 - INFO - ============================================================
+2026-02-04 04:10:36,147 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:10:36,147 - INFO - ============================================================
+2026-02-04 04:10:38,664 - INFO - Database connection established
+2026-02-04 04:10:39,073 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:10:39,206 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:10:39,206 - INFO - Opening market...
+2026-02-04 04:10:41,368 - INFO - Selective collection completed
+2026-02-04 04:10:41,778 - INFO - ✓ Collection complete: 0 items from 0 pages
+2026-02-04 04:10:51,156 - INFO - ============================================================
+2026-02-04 04:10:51,156 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:10:51,156 - INFO - ============================================================
+2026-02-04 04:10:53,518 - INFO - Database connection established
+2026-02-04 04:10:53,927 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:10:54,067 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:10:54,067 - INFO - Opening market...
+2026-02-04 04:10:56,803 - INFO - Selective collection completed
+2026-02-04 04:10:57,079 - INFO - ✓ Collection complete: 0 items from 0 pages
+2026-02-04 04:12:13,655 - INFO - ============================================================
+2026-02-04 04:12:13,656 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:12:13,656 - INFO - ============================================================
+2026-02-04 04:12:16,149 - INFO - Database connection established
+2026-02-04 04:12:16,686 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:12:16,951 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:12:16,952 - INFO - Opening market...
+2026-02-04 04:12:19,120 - INFO - Selective collection completed
+2026-02-04 04:12:19,386 - INFO - ✓ Collection complete: 0 items from 0 pages
+2026-02-04 04:12:26,295 - INFO - ============================================================
+2026-02-04 04:12:26,295 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:12:26,295 - INFO - ============================================================
+2026-02-04 04:12:28,552 - INFO - Database connection established
+2026-02-04 04:12:28,823 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:12:28,965 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:12:28,965 - INFO - Opening market...
+2026-02-04 04:12:31,763 - INFO - Selective collection completed
+2026-02-04 04:12:32,176 - INFO - ✓ Collection complete: 0 items from 0 pages
+2026-02-04 04:21:17,226 - INFO - ============================================================
+2026-02-04 04:21:17,227 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:21:17,228 - INFO - ============================================================
+2026-02-04 04:21:19,667 - INFO - Database connection established
+2026-02-04 04:21:19,941 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:21:20,079 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:21:20,079 - INFO - Opening market...
+2026-02-04 04:21:22,789 - INFO - Selective collection completed
+2026-02-04 04:21:23,129 - INFO - ✓ Collection complete: 0 items from 0 pages
+2026-02-04 04:23:41,881 - INFO - ============================================================
+2026-02-04 04:23:41,882 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:23:41,882 - INFO - ============================================================
+2026-02-04 04:23:44,164 - INFO - Database connection established
+2026-02-04 04:23:44,434 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:23:44,709 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:23:44,709 - INFO - Opening market...
+2026-02-04 04:23:47,419 - INFO - Selective collection completed
+2026-02-04 04:23:47,828 - INFO - ✓ Collection complete: 0 items from 0 pages
+2026-02-04 04:27:13,742 - INFO - ============================================================
+2026-02-04 04:27:13,742 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:27:13,742 - INFO - ============================================================
+2026-02-04 04:27:16,241 - INFO - Database connection established
+2026-02-04 04:27:16,517 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:27:16,650 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:27:16,650 - INFO - Opening market...
+2026-02-04 04:27:19,469 - INFO - 
+Scanning shop 1/5...
+2026-02-04 04:27:19,470 - INFO - Clicking shop at position: X=747, Y=668
+2026-02-04 04:27:23,488 - INFO - Scanning shop grid starting at X=570, Y=651
+2026-02-04 04:27:42,640 - ERROR - Error scanning shop 0: 'NoneType' object has no attribute 'lower'
+2026-02-04 04:27:42,641 - INFO - 
+Scanning shop 2/5...
+2026-02-04 04:27:42,642 - INFO - Clicking shop at position: X=747, Y=708
+2026-02-04 04:27:46,644 - INFO - Scanning shop grid starting at X=570, Y=651
+2026-02-04 04:27:59,464 - ERROR - Error scanning shop 1: 'NoneType' object has no attribute 'lower'
+2026-02-04 04:27:59,623 - INFO - 
+Scanning shop 3/5...
+2026-02-04 04:27:59,624 - INFO - Clicking shop at position: X=747, Y=748
+2026-02-04 04:28:03,594 - INFO - Scanning shop grid starting at X=570, Y=651
+2026-02-04 04:28:13,614 - ERROR - Error scanning shop 2: 'NoneType' object has no attribute 'lower'
+2026-02-04 04:28:13,616 - INFO - 
+Scanning shop 4/5...
+2026-02-04 04:28:13,617 - INFO - Clicking shop at position: X=747, Y=788
+2026-02-04 04:28:17,662 - INFO - Scanning shop grid starting at X=570, Y=651
+2026-02-04 04:28:30,981 - ERROR - Error scanning shop 3: 'NoneType' object has no attribute 'lower'
+2026-02-04 04:28:30,982 - INFO - 
+Scanning shop 5/5...
+2026-02-04 04:28:30,982 - INFO - Clicking shop at position: X=747, Y=828
+2026-02-04 04:28:35,083 - INFO - Scanning shop grid starting at X=570, Y=651
+2026-02-04 04:28:56,549 - ERROR - Error scanning shop 4: 'NoneType' object has no attribute 'lower'
+2026-02-04 04:28:56,551 - INFO - Selective collection completed
+2026-02-04 04:28:56,987 - INFO - ✓ Collection complete: 0 items from 0 pages
+2026-02-04 04:43:39,584 - INFO - ============================================================
+2026-02-04 04:43:39,584 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:43:39,584 - INFO - ============================================================
+2026-02-04 04:43:42,016 - INFO - Database connection established
+2026-02-04 04:43:42,569 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:43:42,836 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:43:42,836 - INFO - Opening market...
+2026-02-04 04:43:45,631 - INFO - Will scan 20 shops total
+2026-02-04 04:43:45,631 - INFO - 
+--- Batch 1: Shops 1-5 ---
+2026-02-04 04:43:45,631 - INFO - 
+Scanning shop 1/20...
+2026-02-04 04:43:45,631 - INFO - Clicking shop at position: X=747, Y=668
+2026-02-04 04:43:49,653 - INFO - Scanning 8x4=32 slots at (570,651)
+2026-02-04 04:44:03,691 - ERROR - Error scanning shop 1: 'NoneType' object has no attribute 'lower'
+2026-02-04 04:44:03,700 - INFO - 
+Scanning shop 2/20...
+2026-02-04 04:44:03,709 - INFO - Clicking shop at position: X=747, Y=708
+2026-02-04 04:44:07,730 - INFO - Scanning 8x4=32 slots at (570,651)
+2026-02-04 04:45:24,743 - INFO - ============================================================
+2026-02-04 04:45:24,744 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:45:24,744 - INFO - ============================================================
+2026-02-04 04:45:27,163 - INFO - Database connection established
+2026-02-04 04:45:27,452 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:45:27,719 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:45:27,719 - INFO - Opening market...
+2026-02-04 04:45:29,904 - INFO - Will scan 20 shops total
+2026-02-04 04:45:29,905 - INFO - 
+--- Batch 1: Shops 1-5 ---
+2026-02-04 04:45:29,905 - INFO - 
+Scanning shop 1/20...
+2026-02-04 04:45:29,905 - INFO - Clicking shop at position: X=747, Y=668
+2026-02-04 04:45:33,520 - INFO - Scanning 8x4=32 slots at (570,651)
+2026-02-04 04:45:45,939 - INFO - ============================================================
+2026-02-04 04:45:45,939 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:45:45,939 - INFO - ============================================================
+2026-02-04 04:45:48,079 - INFO - Database connection established
+2026-02-04 04:45:48,501 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:45:48,770 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:45:48,770 - INFO - Opening market...
+2026-02-04 04:45:51,646 - INFO - Will scan 20 shops total
+2026-02-04 04:45:51,647 - INFO - 
+--- Batch 1: Shops 1-5 ---
+2026-02-04 04:45:51,647 - INFO - 
+Scanning shop 1/20...
+2026-02-04 04:45:51,648 - INFO - Clicking shop at position: X=747, Y=668
+2026-02-04 04:45:55,654 - INFO - Scanning 8x4=32 slots at (570,651)
+2026-02-04 04:46:26,156 - ERROR - Error scanning shop 1: 'NoneType' object has no attribute 'lower'
+2026-02-04 04:46:26,158 - INFO - 
+Scanning shop 2/20...
+2026-02-04 04:46:26,188 - INFO - Clicking shop at position: X=747, Y=708
+2026-02-04 04:46:30,272 - INFO - Scanning 8x4=32 slots at (570,651)
+2026-02-04 04:46:33,171 - ERROR - Error scanning shop 2: 'NoneType' object has no attribute 'lower'
+2026-02-04 04:46:33,173 - INFO - 
+Scanning shop 3/20...
+2026-02-04 04:46:33,173 - INFO - Clicking shop at position: X=747, Y=748
+2026-02-04 04:46:37,222 - INFO - Scanning 8x4=32 slots at (570,651)
+2026-02-04 04:46:51,192 - ERROR - Error scanning shop 3: 'NoneType' object has no attribute 'lower'
+2026-02-04 04:46:51,196 - INFO - 
+Scanning shop 4/20...
+2026-02-04 04:46:51,196 - INFO - Clicking shop at position: X=747, Y=788
+2026-02-04 04:46:55,228 - INFO - Scanning 8x4=32 slots at (570,651)
+2026-02-04 04:47:18,430 - ERROR - Error scanning shop 4: 'NoneType' object has no attribute 'lower'
+2026-02-04 04:47:18,430 - INFO - 
+Scanning shop 5/20...
+2026-02-04 04:47:18,431 - INFO - Clicking shop at position: X=747, Y=828
+2026-02-04 04:47:22,520 - INFO - Scanning 8x4=32 slots at (570,651)
+2026-02-04 04:55:20,086 - INFO - ============================================================
+2026-02-04 04:55:20,087 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 04:55:20,087 - INFO - ============================================================
+2026-02-04 04:55:22,650 - INFO - Database connection established
+2026-02-04 04:55:22,924 - INFO - Starting SELECTIVE collection...
+2026-02-04 04:55:23,058 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 04:55:23,058 - INFO - Opening market...
+2026-02-04 04:55:25,822 - INFO - Will scan 20 shops total
+2026-02-04 04:55:25,828 - INFO - 
+--- Batch 1: Shops 1-5 ---
+2026-02-04 04:55:25,837 - INFO - 
+Scanning shop 1/20...
+2026-02-04 04:55:25,837 - INFO - Clicking shop at position: X=808, Y=379
+2026-02-04 04:55:29,886 - INFO - Scanning 8x4=32 slots at (561,646)
+2026-02-04 04:55:38,936 - ERROR - Error scanning shop 1: 'NoneType' object has no attribute 'lower'
+2026-02-04 04:55:38,937 - INFO - 
+Scanning shop 2/20...
+2026-02-04 04:55:38,937 - INFO - Clicking shop at position: X=808, Y=419
+2026-02-04 04:55:43,200 - INFO - Scanning 8x4=32 slots at (561,646)
+2026-02-04 23:58:06,325 - INFO - ============================================================
+2026-02-04 23:58:06,326 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 23:58:06,326 - INFO - ============================================================
+2026-02-04 23:58:10,985 - INFO - Database connection established
+2026-02-04 23:58:11,267 - INFO - Starting SELECTIVE collection...
+2026-02-04 23:58:11,401 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 23:58:11,401 - INFO - Opening market...
+2026-02-04 23:58:13,620 - INFO - Will scan 20 shops total
+2026-02-04 23:58:13,621 - INFO - 
+--- Batch 1: Shops 1-5 ---
+2026-02-04 23:58:13,621 - INFO - 
+Scanning shop 1/20...
+2026-02-04 23:58:13,621 - INFO - Clicking shop at position: X=808, Y=379
+2026-02-04 23:58:17,237 - INFO - 
+============================================================
+2026-02-04 23:58:17,238 - INFO - Scanning shop: Shop_1
+2026-02-04 23:58:17,238 - INFO - Grid: 8x4=32 slots
+2026-02-04 23:58:17,238 - INFO - First slot: (561,646)
+2026-02-04 23:58:17,238 - INFO - Slot size: 32px (Retina scale: 2)
+2026-02-04 23:58:17,238 - INFO - ============================================================
+2026-02-04 23:58:17,238 - INFO - [Slot  1/32] Moving to ( 561, 646)...
+2026-02-04 23:58:24,087 - INFO - ============================================================
+2026-02-04 23:58:24,088 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-04 23:58:24,088 - INFO - ============================================================
+2026-02-04 23:58:27,110 - INFO - Database connection established
+2026-02-04 23:58:27,388 - INFO - Starting SELECTIVE collection...
+2026-02-04 23:58:27,531 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-04 23:58:27,531 - INFO - Opening market...
+2026-02-04 23:58:30,343 - INFO - Will scan 20 shops total
+2026-02-04 23:58:30,346 - INFO - 
+--- Batch 1: Shops 1-5 ---
+2026-02-04 23:58:30,346 - INFO - 
+Scanning shop 1/20...
+2026-02-04 23:58:30,346 - INFO - Clicking shop at position: X=808, Y=379
+2026-02-04 23:58:34,366 - INFO - 
+============================================================
+2026-02-04 23:58:34,366 - INFO - Scanning shop: Shop_1
+2026-02-04 23:58:34,366 - INFO - Grid: 8x4=32 slots
+2026-02-04 23:58:34,366 - INFO - First slot: (561,646)
+2026-02-04 23:58:34,367 - INFO - Slot size: 32px (Retina scale: 2)
+2026-02-04 23:58:34,367 - INFO - ============================================================
+2026-02-04 23:58:34,367 - INFO - [Slot  1/32] Moving to ( 561, 646)...
+2026-02-04 23:58:38,149 - INFO -   ✓ Tooltip detected at slot 1
+2026-02-04 23:58:38,373 - INFO -   → Item: ® | Price: None
+2026-02-04 23:58:38,373 - INFO -   ⊘ Not in interest list
+2026-02-04 23:58:38,373 - INFO - [Slot  2/32] Moving to ( 593, 646)...
+2026-02-04 23:58:42,219 - INFO -   ✓ Tooltip detected at slot 2
+2026-02-04 23:58:42,646 - INFO -   → Item: 2.) | Price: None
+2026-02-04 23:58:42,699 - INFO -   ⊘ Not in interest list
+2026-02-04 23:58:42,699 - INFO - [Slot  3/32] Moving to ( 625, 646)...
+2026-02-04 23:58:46,509 - INFO -   ✓ Tooltip detected at slot 3
+2026-02-04 23:58:46,700 - INFO -   → Item: ma UN | Price: None
+2026-02-04 23:58:46,700 - INFO -   ⊘ Not in interest list
+2026-02-04 23:58:46,701 - INFO - [Slot  4/32] Moving to ( 657, 646)...
+2026-02-04 23:58:50,741 - INFO -   ✓ Tooltip detected at slot 4
+2026-02-04 23:58:51,254 - INFO -   → Item: fo SY | Price: None
+2026-02-04 23:58:51,258 - INFO -   ⊘ Not in interest list
+2026-02-04 23:58:51,263 - INFO - [Slot  5/32] Moving to ( 689, 646)...
+2026-02-04 23:58:56,755 - INFO -   ✓ Tooltip detected at slot 5
+2026-02-04 23:58:57,196 - INFO -   → Item: ’ oo | Price: None
+2026-02-04 23:58:57,199 - INFO -   ⊘ Not in interest list
+2026-02-04 23:58:57,201 - INFO - [Slot  6/32] Moving to ( 721, 646)...
+2026-02-04 23:59:01,292 - INFO -   ✓ Tooltip detected at slot 6
+2026-02-04 23:59:01,624 - INFO -   → Item: ® | Price: None
+2026-02-04 23:59:01,624 - INFO -   ⊘ Not in interest list
+2026-02-04 23:59:01,625 - INFO - [Slot  7/32] Moving to ( 753, 646)...
+2026-02-04 23:59:05,936 - INFO -   ✓ Tooltip detected at slot 7
+2026-02-04 23:59:06,448 - INFO -   → Item: = UN | Price: None
+2026-02-04 23:59:06,460 - INFO -   ⊘ Not in interest list
+2026-02-04 23:59:06,460 - INFO - [Slot  8/32] Moving to ( 785, 646)...
+2026-02-04 23:59:10,602 - INFO -   ✓ Tooltip detected at slot 8
+2026-02-04 23:59:10,832 - INFO -   → Item: *» | Price: None
+2026-02-04 23:59:10,853 - INFO -   ⊘ Not in interest list
+2026-02-04 23:59:10,860 - INFO - [Slot  9/32] Moving to ( 561, 678)...
+2026-02-04 23:59:14,669 - INFO -   ✓ Tooltip detected at slot 9
+2026-02-04 23:59:16,003 - INFO -   → Item: a a ‘, | Price: None
+2026-02-04 23:59:16,023 - INFO -   ⊘ Not in interest list
+2026-02-04 23:59:16,023 - INFO - [Slot 10/32] Moving to ( 593, 678)...
+2026-02-04 23:59:20,163 - INFO -   ✓ Tooltip detected at slot 10
+2026-02-04 23:59:20,972 - INFO -   → Item: / “a NY | Price: None
+2026-02-04 23:59:20,980 - INFO -   ⊘ Not in interest list
+2026-02-04 23:59:20,980 - INFO - [Slot 11/32] Moving to ( 625, 678)...
+2026-02-04 23:59:24,716 - INFO -   ✓ Tooltip detected at slot 11
+2026-02-04 23:59:24,912 - INFO -   → Item: es | Price: None
+2026-02-04 23:59:24,913 - INFO -   ⊘ Not in interest list
+2026-02-04 23:59:24,914 - INFO - [Slot 12/32] Moving to ( 657, 678)...
+2026-02-04 23:59:28,943 - INFO -   ✓ Tooltip detected at slot 12
+2026-02-04 23:59:29,193 - INFO -   → Item: ‘> | Price: None
+2026-02-04 23:59:29,240 - INFO -   ⊘ Not in interest list
+2026-02-04 23:59:29,240 - INFO - [Slot 13/32] Moving to ( 689, 678)...
+2026-02-04 23:59:33,667 - INFO -   ✓ Tooltip detected at slot 13
+2026-02-04 23:59:34,070 - INFO -   → Item: “a UN | Price: None
+2026-02-04 23:59:34,080 - INFO -   ⊘ Not in interest list
+2026-02-04 23:59:34,081 - INFO - [Slot 14/32] Moving to ( 721, 678)...
+2026-02-04 23:59:37,962 - INFO -   ✓ Tooltip detected at slot 14
+2026-02-04 23:59:38,494 - INFO -   → Item: a= UN | Price: None
+2026-02-04 23:59:38,495 - INFO -   ⊘ Not in interest list
+2026-02-04 23:59:38,495 - INFO - [Slot 15/32] Moving to ( 753, 678)...
+2026-02-04 23:59:42,456 - INFO -   ✓ Tooltip detected at slot 15
+2026-02-04 23:59:42,827 - INFO -   → Item: f N, | Price: None
+2026-02-04 23:59:42,829 - INFO -   ⊘ Not in interest list
+2026-02-04 23:59:42,829 - INFO - [Slot 16/32] Moving to ( 785, 678)...
+2026-02-04 23:59:46,527 - INFO -   ✓ Tooltip detected at slot 16
+2026-02-04 23:59:47,213 - INFO -   → Item: None | Price: None
+2026-02-04 23:59:47,213 - ERROR - Error scanning shop 1: 'NoneType' object has no attribute 'lower'
+2026-02-04 23:59:47,213 - INFO - 
+Scanning shop 2/20...
+2026-02-04 23:59:47,213 - INFO - Clicking shop at position: X=808, Y=419
+2026-02-04 23:59:51,247 - INFO - 
+============================================================
+2026-02-04 23:59:51,248 - INFO - Scanning shop: Shop_2
+2026-02-04 23:59:51,248 - INFO - Grid: 8x4=32 slots
+2026-02-04 23:59:51,249 - INFO - First slot: (561,646)
+2026-02-04 23:59:51,249 - INFO - Slot size: 32px (Retina scale: 2)
+2026-02-04 23:59:51,249 - INFO - ============================================================
+2026-02-04 23:59:51,250 - INFO - [Slot  1/32] Moving to ( 561, 646)...
+2026-02-04 23:59:55,205 - INFO -   ✓ Tooltip detected at slot 1
+2026-02-04 23:59:55,649 - INFO -   → Item: D | Price: None
+2026-02-04 23:59:55,649 - INFO -   ⊘ Not in interest list
+2026-02-04 23:59:55,649 - INFO - [Slot  2/32] Moving to ( 593, 646)...
+2026-02-05 00:00:04,933 - INFO -   ✓ Tooltip detected at slot 2
+2026-02-05 00:00:05,947 - INFO -   → Item: ‘ oo | Price: None
+2026-02-05 00:00:05,947 - INFO -   ⊘ Not in interest list
+2026-02-05 00:00:05,947 - INFO - [Slot  3/32] Moving to ( 625, 646)...
+2026-02-05 00:00:08,879 - INFO -   ✓ Tooltip detected at slot 3
+2026-02-05 00:00:09,075 - INFO -   → Item: a » | Price: None
+2026-02-05 00:00:09,075 - INFO -   ⊘ Not in interest list
+2026-02-05 00:00:09,075 - INFO - [Slot  4/32] Moving to ( 657, 646)...
+2026-02-05 00:03:55,135 - INFO - ============================================================
+2026-02-05 00:03:55,136 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-05 00:03:55,136 - INFO - ============================================================
+2026-02-05 00:03:57,804 - INFO - Database connection established
+2026-02-05 00:03:58,223 - INFO - Starting SELECTIVE collection...
+2026-02-05 00:03:58,577 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-05 00:03:58,578 - INFO - Opening market...
+2026-02-05 00:04:01,360 - INFO - Will scan 20 shops total
+2026-02-05 00:04:01,361 - INFO - 
+--- Batch 1: Shops 1-5 ---
+2026-02-05 00:04:01,361 - INFO - 
+Scanning shop 1/20...
+2026-02-05 00:04:01,361 - INFO - Clicking shop at position: X=808, Y=379
+2026-02-05 00:04:05,384 - INFO - 
+============================================================
+2026-02-05 00:04:05,385 - INFO - Scanning shop: Shop_1
+2026-02-05 00:04:05,385 - INFO - Grid: 8x4=32 slots
+2026-02-05 00:04:05,385 - INFO - First slot: (561,646)
+2026-02-05 00:04:05,385 - INFO - Slot size: 32px (Retina scale: 2)
+2026-02-05 00:04:05,385 - INFO - ============================================================
+2026-02-05 00:04:05,385 - INFO - [Slot  1/32] Moving to ( 561, 646)...
+2026-02-05 00:04:09,133 - INFO -   ✓ Tooltip detected at slot 1
+2026-02-05 00:04:09,340 - INFO -   → Item: None | Price: None
+2026-02-05 00:04:09,342 - ERROR - Error scanning shop 1: 'NoneType' object has no attribute 'lower'
+2026-02-05 00:04:09,342 - INFO - 
+Scanning shop 2/20...
+2026-02-05 00:04:09,343 - INFO - Clicking shop at position: X=808, Y=419
+2026-02-05 00:04:13,355 - INFO - 
+============================================================
+2026-02-05 00:04:13,356 - INFO - Scanning shop: Shop_2
+2026-02-05 00:04:13,356 - INFO - Grid: 8x4=32 slots
+2026-02-05 00:04:13,356 - INFO - First slot: (561,646)
+2026-02-05 00:04:13,356 - INFO - Slot size: 32px (Retina scale: 2)
+2026-02-05 00:04:13,356 - INFO - ============================================================
+2026-02-05 00:04:13,357 - INFO - [Slot  1/32] Moving to ( 561, 646)...
+2026-02-05 00:04:17,189 - INFO -   ✓ Tooltip detected at slot 1
+2026-02-05 00:04:17,406 - INFO -   → Item: 2 | Price: None
+2026-02-05 00:04:17,407 - INFO -   ⊘ Not in interest list
+2026-02-05 00:04:17,407 - INFO - [Slot  2/32] Moving to ( 593, 646)...
+2026-02-05 00:04:21,413 - INFO -   ✓ Tooltip detected at slot 2
+2026-02-05 00:04:21,686 - INFO -   → Item: .) | Price: None
+2026-02-05 00:04:21,689 - INFO -   ⊘ Not in interest list
+2026-02-05 00:04:21,689 - INFO - [Slot  3/32] Moving to ( 625, 646)...
+2026-02-05 00:04:25,431 - INFO -   ✓ Tooltip detected at slot 3
+2026-02-05 00:04:26,000 - INFO -   → Item: 8 | Price: None
+2026-02-05 00:04:26,000 - INFO -   ⊘ Not in interest list
+2026-02-05 00:04:26,000 - INFO - [Slot  4/32] Moving to ( 657, 646)...
+2026-02-05 00:04:29,792 - INFO -   ✓ Tooltip detected at slot 4
+2026-02-05 00:04:30,079 - INFO -   → Item: . | Price: None
+2026-02-05 00:04:30,080 - INFO -   ⊘ Not in interest list
+2026-02-05 00:04:30,080 - INFO - [Slot  5/32] Moving to ( 689, 646)...
+2026-02-05 00:04:34,077 - INFO -   ✓ Tooltip detected at slot 5
+2026-02-05 00:04:34,623 - INFO -   → Item: .:) | Price: None
+2026-02-05 00:04:34,627 - INFO -   ⊘ Not in interest list
+2026-02-05 00:04:34,627 - INFO - [Slot  6/32] Moving to ( 721, 646)...
+2026-02-05 00:04:39,106 - INFO -   ✓ Tooltip detected at slot 6
+2026-02-05 00:04:39,349 - INFO -   → Item: 8 | Price: None
+2026-02-05 00:04:39,350 - INFO -   ⊘ Not in interest list
+2026-02-05 00:04:39,350 - INFO - [Slot  7/32] Moving to ( 753, 646)...
+2026-02-05 00:04:43,122 - INFO -   ✓ Tooltip detected at slot 7
+2026-02-05 00:04:43,759 - INFO -   → Item: None | Price: None
+2026-02-05 00:04:43,759 - ERROR - Error scanning shop 2: 'NoneType' object has no attribute 'lower'
+2026-02-05 00:04:43,760 - INFO - 
+Scanning shop 3/20...
+2026-02-05 00:04:43,760 - INFO - Clicking shop at position: X=808, Y=459
+2026-02-05 00:04:47,927 - INFO - 
+============================================================
+2026-02-05 00:04:47,929 - INFO - Scanning shop: Shop_3
+2026-02-05 00:04:47,929 - INFO - Grid: 8x4=32 slots
+2026-02-05 00:04:47,929 - INFO - First slot: (561,646)
+2026-02-05 00:04:47,929 - INFO - Slot size: 32px (Retina scale: 2)
+2026-02-05 00:04:47,929 - INFO - ============================================================
+2026-02-05 00:04:47,930 - INFO - [Slot  1/32] Moving to ( 561, 646)...
+2026-02-05 00:04:51,769 - INFO -   ✓ Tooltip detected at slot 1
+2026-02-05 00:04:52,582 - INFO -   → Item: D | Price: None
+2026-02-05 00:04:52,583 - INFO -   ⊘ Not in interest list
+2026-02-05 00:04:52,584 - INFO - [Slot  2/32] Moving to ( 593, 646)...
+2026-02-05 00:04:56,830 - INFO -   ✓ Tooltip detected at slot 2
+2026-02-05 00:04:57,442 - INFO -   → Item: = 6N | Price: None
+2026-02-05 00:04:57,456 - INFO -   ⊘ Not in interest list
+2026-02-05 00:04:57,456 - INFO - [Slot  3/32] Moving to ( 625, 646)...
+2026-02-05 00:05:01,392 - INFO -   ✓ Tooltip detected at slot 3
+2026-02-05 00:05:02,230 - INFO -   → Item: *® | Price: None
+2026-02-05 00:05:02,234 - INFO -   ⊘ Not in interest list
+2026-02-05 00:05:02,234 - INFO - [Slot  4/32] Moving to ( 657, 646)...
+2026-02-05 22:57:04,342 - INFO - ============================================================
+2026-02-05 22:57:04,346 - INFO - Mega MU Hybrid Collector - SELECTIVE MODE
+2026-02-05 22:57:04,346 - INFO - ============================================================
+2026-02-05 22:57:09,026 - INFO - Database connection established
+2026-02-05 22:57:09,418 - INFO - Starting SELECTIVE collection...
+2026-02-05 22:57:09,758 - INFO - Monitoring 1 items: ['Jewel of Chaos']
+2026-02-05 22:57:09,759 - INFO - Opening market...
+2026-02-05 22:57:13,927 - INFO - Will scan 20 shops total
+2026-02-05 22:57:13,930 - INFO - 
+--- Batch 1: Shops 1-5 ---
+2026-02-05 22:57:13,930 - INFO - 
+Scanning shop 1/20...
+2026-02-05 22:57:13,934 - INFO - Clicking shop at position: X=808, Y=379
+2026-02-05 22:57:17,887 - INFO - 
+============================================================
+2026-02-05 22:57:17,897 - INFO - Scanning shop: Shop_1
+2026-02-05 22:57:17,897 - INFO - Grid: 8x4=32 slots
+2026-02-05 22:57:17,897 - INFO - First slot: (561,646)
+2026-02-05 22:57:17,898 - INFO - Slot size: 32px (Retina scale: 2)
+2026-02-05 22:57:17,898 - INFO - ============================================================
+2026-02-05 22:57:17,898 - INFO - [Slot  1/32] Moving to ( 561, 646)...
+2026-02-05 22:57:22,595 - INFO -   ✓ Tooltip detected at slot 1
+2026-02-05 22:57:23,102 - INFO -   → Item: > | Price: None
+2026-02-05 22:57:23,103 - INFO -   ⊘ Not in interest list
+2026-02-05 22:57:23,103 - INFO - [Slot  2/32] Moving to ( 593, 646)...
